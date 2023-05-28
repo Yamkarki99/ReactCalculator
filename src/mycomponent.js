@@ -1,0 +1,2 @@
+//inline export
+export
